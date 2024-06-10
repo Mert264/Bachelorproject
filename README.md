@@ -1,6 +1,6 @@
 # README
 
-This repository contains the code and data used in the Bachelor Thesis "Fuel Economy and Market Dynamics: The Impact of Feebate Systems and Fuel Taxes on Car Market Demand." The dataset has been handed over by Bertel Schjerning and has afterwards been processed for the analysis.
+This repository contains the code and data used in the Bachelor Thesis "Fuel Economy and Market Dynamics: The Impact of Feebate Systems and Fuel Taxes on Car Market Demand." The dataset used originates from various sources and has been processed for the analysis.
 
 ## Contents
 
@@ -12,7 +12,6 @@ This repository contains the code and data used in the Bachelor Thesis "Fuel Eco
   - `UK.py`: Analysis specific to the UK.
 
 - **Jupyter Notebooks**
-  - `Bachelorprojekt1.ipynb`: Main project notebook.
   - `CounterFactualSimulation.ipynb`: Notebook for counterfactual simulations.
   - `OLS,2SLS,Elasticity.ipynb`: Notebook for OLS, 2SLS, and elasticity calculations.
 
@@ -56,6 +55,8 @@ To reproduce the results:
 
 ## References
 
-- Backus, et al. (2020). "Sequential Bargaining in the Field: Evidence from Millions of Online Interactions." Quarterly Journal of Economics.
-- Goldberg and Verboven (2001). "The Evolution of Price Dispersion in the European Car Market."
 - Train (2002). "Discrete Choice Methods with Simulation."
+- Berry, Levinsohn, and Pakes (1995). "Automobile Prices in Market Equilibrium."
+- Verboven and Brenkers (2006). "Liberalizing a Distribution System: The European Car Market."
+- Durrmeyer (2021). "Winners and Losers: The Distributional Effects of the French Feebate on the Automobile Market."
+
